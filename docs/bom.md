@@ -1,22 +1,5 @@
 # Bill of Materials
 
-This section lists the components required to assemble one RUKA-V2 hand.
-
-## Mechanical Components
-- 3D-printed palm and finger parts
-- Tendon string (e.g., Dyneema or equivalent)
-- PTFE tubing (for tendon guides)
-- Bearings and shafts (as specified in CAD)
-- Fasteners (M2 / M3)
-
-## Actuation
-- Servo or motor units (model depends on configuration)
-- Mounting brackets or adapters
-
-## Electronics
-- Motor controller(s)
-- Microcontroller or embedded computer
-- Power supply
-- Wiring harnesses and connectors
+<table><thead><tr><th width="252.07421875">Name</th><th>URL</th><th>Quantity</th></tr></thead><tbody><tr><td>Tendons: Braided Fishing Line (0.75mm or 0.68mm)</td><td><a href="https://www.amazon.com/dp/B076HJ3VS5?social_share=cm_sw_r_cp_ud_dp_24VJYD9PYNSQ9QNX9VNS&#x26;previewDoh=1">https://www.amazon.com/dp/B076HJ3VS5?social_share=cm_sw_r_cp_ud_dp_24VJYD9PYNSQ9QNX9VNS&#x26;previewDoh=1</a></td><td>1</td></tr><tr><td>PTFE Tubing 2mm ID, 4mm OD (5 ft)</td><td><a href="https://www.google.com/url?q=https://www.mcmaster.com/52335K32/&#x26;sa=D&#x26;source=editors&#x26;ust=1770211511896520&#x26;usg=AOvVaw31-wdlbmtokcd7ZWvv9eOh">https://www.google.com/url?q=https://www.mcmaster.com/52335K32/&#x26;sa=D&#x26;source=editors&#x26;ust=1770211511896520&#x26;usg=AOvVaw31-wdlbmtokcd7ZWvv9eOh</a></td><td>1</td></tr><tr><td>Bambu Matte Black Filament</td><td><a href="https://www.google.com/url?q=https://shop3duniverse.com/collections/bambu-lab-filaments/products/bambu-lab-pla-matte-1-75mm-1kg%23v47948643696960&#x26;sa=D&#x26;source=editors&#x26;ust=1770211511897782&#x26;usg=AOvVaw3Xr1db1b0BrXV-5jqtFpiD">https://www.google.com/url?q=https://shop3duniverse.com/collections/bambu-lab-filaments/products/bambu-lab-pla-matte-1-75mm-1kg%23v47948643696960&#x26;sa=D&#x26;source=editors&#x26;ust=1770211511897782&#x26;usg=AOvVaw3Xr1db1b0BrXV-5jqtFpiD</a></td><td>1</td></tr><tr><td>16 mm Dowel Pins (50 pk)</td><td><a href="https://www.google.com/url?q=https://www.mcmaster.com/91585A304/&#x26;sa=D&#x26;source=editors&#x26;ust=1770211511900546&#x26;usg=AOvVaw1xtzFYYHmhV-85Eanl925z">https://www.google.com/url?q=https://www.mcmaster.com/91585A304/&#x26;sa=D&#x26;source=editors&#x26;ust=1770211511900546&#x26;usg=AOvVaw1xtzFYYHmhV-85Eanl925z</a></td><td>1</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 > Exact part numbers and quantities should match the accompanying CAD and electrical schematics.
