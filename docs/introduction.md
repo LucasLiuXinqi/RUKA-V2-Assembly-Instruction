@@ -1,22 +1,27 @@
-# Introduction
+---
+icon: robot-astromech
+---
 
-RUKA-V2 is a tendon-driven robotic hand designed for research in dexterous manipulation, learning-based control, and human-robot interaction.
+# Hardware Overview
 
-The system emphasizes:
-- modular mechanical design
-- tendon transmission for compact actuation
-- reproducibility through detailed documentation
+### What do I need to buy?
 
-This guide documents the **physical assembly process**, not the learning or control algorithms.
+{% content-ref url="bom.md" %}
+[bom.md](bom.md)
+{% endcontent-ref %}
 
-## Scope
-This manual covers:
-- Mechanical assembly
-- Electrical wiring and power-up
-- Sensor and actuator calibration
-- Basic functional verification
 
-It does **not** cover:
-- High-level control policies
-- Learning pipelines
-- Dataset generation
+
+### What do I need to print?
+
+{% content-ref url="cad-files.md" %}
+[cad-files.md](cad-files.md)
+{% endcontent-ref %}
+
+
+
+### How can I build one?
+
+{% content-ref url="/broken/pages/gg4XZXHeW4K00vUBnZCy" %}
+[Broken link](/broken/pages/gg4XZXHeW4K00vUBnZCy)
+{% endcontent-ref %}
