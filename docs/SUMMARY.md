@@ -21,9 +21,5 @@
 
 ## Software
 
-* [Motion Check](software/motion-check.md)
-* [Troubleshooting](software/troubleshooting.md)
-
-## Appendix
-
-* [Changelog](appendix/changelog.md)
+* [Calibration](software/motion-check.md)
+* [Demo](software/troubleshooting.md)
