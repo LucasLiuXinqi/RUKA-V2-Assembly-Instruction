@@ -10,7 +10,7 @@
 * [Overview](assembly/index.md)
 * [Step 01 — Heat Insert Tutorial](assembly/step-01-palm.md)
 * [Step 02 — Finger Assembly](assembly/step-02-fingers.md)
-* [Step 03 — Kunckle Assembly](assembly/step-03-tendons.md)
+* [Step 03 — Knuckle Assembly](assembly/step-03-tendons.md)
 * [Step 04 — Palm Assembly](assembly/step-04-wrist.md)
 * [Step 05 — Wrist Assembly](assembly/step-05-final.md)
 * [Step 06 — Wiring and Motor IDs](assembly/step-06-wiring-and-motor-ids.md)

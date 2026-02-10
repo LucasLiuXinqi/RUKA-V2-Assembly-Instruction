@@ -32,35 +32,37 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 #### 1. Fingers (Index, Middle, Ring)
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 #### 2. Pinky
+
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
 #### 3. Thumb
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 #### 4. Knuckle
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 #### 5. Palm & Backhand
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 #### 6. Wrist
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 #### 7. Top Motor Panel
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 #### 8. Motor Base
 
-
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
