@@ -50,15 +50,35 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 #### 3. Thumb
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>4</td></tr><tr><td>M3 x 4 x 5 Heat Set Inserts</td><td>1</td></tr></tbody></table>
+
+| Joint1                                                                           | Joint2                                                                           | Joint3                                                                   |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| \[1] M2 x 4 x 3.5                                                                | \[2] M2 x 4 x 3.5                                                                | <p>[1] M3 x 4 x 5, <br>[1] M2 x 4 x 3.5</p>                              |
+| <p><img src="../.gitbook/assets/tip.gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/mid.gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/image (2).gif" alt="" data-size="original"> |
 
 #### 4. Knuckle
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td>3</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>4</td></tr></tbody></table>
+
+| Index                                                                              | Ring & Pinky                                                                      | Middle                              |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- |
+| <p>[1] M2 x 3 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                      | <p>[1] M2 x 3 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                     | \[1] M2 x 4 x 3.5                   |
+| <p><img src="../.gitbook/assets/index.gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/ring.gif" alt="" data-size="original"></p><p></p> | ![](../.gitbook/assets/knuckle.gif) |
 
 #### 5. Palm & Backhand
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>12</td></tr><tr><td>M2 x 6 x 3.5 Heat Set Inserts</td><td>6</td></tr></tbody></table>
+
+| Front                                                                                   | Back                                                                     | Inside                              |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------- |
+| \[2] M2 x 4 x 3.5                                                                       | \[2] M2 x 4 x 3.5                                                        | \[3] M2 x 4 x 3.5                   |
+| <p><img src="../.gitbook/assets/back_front.gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/back_back.gif" alt="" data-size="original"> | ![](../.gitbook/assets/back_in.gif) |
+
+| Front                                   | Back                                   | Inside                               |
+| --------------------------------------- | -------------------------------------- | ------------------------------------ |
+| \[3] M2 x 4 x 3.5                       | \[2] M2 x 4 x 3.5                      | \[6] M2 x 6 x 3.5                    |
+| ![](../.gitbook/assets/front_front.gif) | ![](../.gitbook/assets/front_back.gif) | ![](../.gitbook/assets/front_up.gif) |
 
 #### 6. Wrist
 
@@ -71,20 +91,4 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 #### 8. Motor Base
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
