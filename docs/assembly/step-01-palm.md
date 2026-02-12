@@ -82,13 +82,33 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 #### 6. Wrist
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M5 x 6 x 7 Heat Set Inserts</td><td>4</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>8</td></tr></tbody></table>
+
+Wrist Connector
+
+| Top & Bottom                                                                               | Middle                             |
+| ------------------------------------------------------------------------------------------ | ---------------------------------- |
+| \[2] M2 x 4 x 3.5                                                                          | \[1] M5 x 6 x 7                    |
+| <p><img src="../.gitbook/assets/connector (1).gif" alt="" data-size="original"></p><p></p> | ![](../.gitbook/assets/middle.gif) |
+
+Wrist Base
+
+| Wrist Linkage                                                                     | Wrist Base                                                          |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| \[3] M5 x 6 x 7                                                                   | \[4] M2 x 4 x 3.5                                                   |
+| <p></p><p><img src="../.gitbook/assets/link.gif" alt="" data-size="original"></p> | <img src="../.gitbook/assets/base.gif" alt="" data-size="original"> |
 
 #### 7. Top Motor Panel
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M5 x 6 x 7 Heat Set Inserts</td><td>3</td></tr></tbody></table>
+
+<table><thead><tr><th width="343.33984375">Top Panel</th></tr></thead><tbody><tr><td>[3] M5 x 6 x 7</td></tr><tr><td><p><img src="../.gitbook/assets/top.gif" alt="" data-size="original"></p><p></p></td></tr></tbody></table>
 
 #### 8. Motor Base
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M5 x 6 x 7 Heat Set Inserts</td><td>16</td></tr></tbody></table>
 
+|                                                                                    |                                                                                |                                     |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------- |
+| \[2] M5 x 6 x 7                                                                    | \[5] M5 x 6 x 7                                                                | \[2] M5 x 6 x 7                     |
+| <p><img src="../.gitbook/assets/thumb.gif" alt="" data-size="original"></p><p></p> | <p></p><p><img src="../.gitbook/assets/6.gif" alt="" data-size="original"></p> | ![](../.gitbook/assets/connect.gif) |
