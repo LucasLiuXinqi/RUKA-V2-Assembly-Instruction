@@ -24,7 +24,7 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 #### Hardware (Inserts)
 
-<table><thead><tr><th width="202.56640625">Part Name</th><th width="144.5703125">Total Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 mm insert</td><td></td></tr><tr><td>M2 x 4 x 3.5 mm insert</td><td></td></tr><tr><td>M2 x 6 x 3.5 mm insert</td><td></td></tr><tr><td>M2 x 8 x 3.5 mm insert</td><td></td></tr><tr><td>M3 x 4 x 5 mm insert</td><td></td></tr><tr><td>M3 x 6 x 5 mm insert</td><td></td></tr><tr><td>M5 x 6 x 7 mm insert</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="202.56640625">Part Name</th><th width="144.5703125">Total Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 mm insert</td><td></td></tr><tr><td>M2 x 4 x 3.5 mm insert</td><td></td></tr><tr><td>M2 x 6 x 3.5 mm insert</td><td></td></tr><tr><td>M2 x 8 x 3.5 mm insert</td><td></td></tr><tr><td>M3 x 4 x 5 mm insert</td><td></td></tr><tr><td>M3 x 6 x 5 mm insert</td><td></td></tr><tr><td>M5 x 6 x 7 mm insert</td><td></td></tr></tbody></table>
 
 
 
@@ -32,13 +32,21 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 #### 1. Fingers (Index, Middle, Ring)
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 Heat Set Inserts</td><td>2</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>3</td></tr></tbody></table>
+
+| Joint 1                                                                             | Joint 2                                                               | Joint 3                                                                             |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| \[1] M2 x 4 x 3.5                                                                   | \[2] M2 x 2 x 3.5                                                     | \[2] M2 x 4 x 3.5                                                                   |
+| <p><img src="../.gitbook/assets/joint1.gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/joint2.gif" alt="" data-size="original"> | <p></p><p><img src="../.gitbook/assets/joint3.gif" alt="" data-size="original"></p> |
 
 #### 2. Pinky
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td>2</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>3</td></tr></tbody></table>
 
-
+| Joint 1                                                                                 | Joint 2                                                                                 | Joint 3                                                                   |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| \[1] M2 x 4 x 3.5                                                                       | \[2] M2 x 3 x 3.5                                                                       | \[2] M2 x 4 x 3.5                                                         |
+| <p><img src="../.gitbook/assets/joint1 (1).gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/joint2 (1).gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/joint3 (1).gif" alt="" data-size="original"> |
 
 #### 3. Thumb
 
