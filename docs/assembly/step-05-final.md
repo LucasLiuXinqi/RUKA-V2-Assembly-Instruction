@@ -33,11 +33,13 @@
 
 #### Wrist Assembly
 
-| Required Parts | Number |
-| -------------- | ------ |
-|                |        |
-|                |        |
-|                |        |
+| Required Parts   | Number |
+| ---------------- | ------ |
+| Wrist Components |        |
+| M2 \* 12 Screw   | 4      |
+| M5 \* 20 Screw   | 6      |
+| M5 Washer        | >8     |
+| M5 Lock Nuts     | 5      |
 
 1. Press the wrist connector into the inner linkage.&#x20;
 
@@ -67,7 +69,9 @@
 
 #### Wrist Routing
 
-{% embed url="https://youtu.be/F7jBn-lpLIc" %}
+{% embed url="https://youtu.be/GrFL19Z3Onc" %}
+
+{% embed url="https://youtu.be/DixnyVoC6T4" %}
 
 Things to Prepare:
 
@@ -76,10 +80,10 @@ Things to Prepare:
 
 
 
-Things to Pay Attention:
+<mark style="color:$danger;">Things to Pay Attention:</mark>
 
-* Make sure that the strings are not entangling with each other.
-* &#x20;Verify finger movement after routing.
+* <mark style="color:$danger;">Make sure that the strings are not entangling with each other.</mark>
+* &#x20;<mark style="color:$danger;">Verify finger movement after routing.</mark>
 
 
 
@@ -90,8 +94,20 @@ Steps:
 <figure><img src="../.gitbook/assets/B8E6E3C4-9BB7-40C9-9A20-E2E0F4C1D1F8_1_105_c.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Route the strings through the wrist group by group, and check for overlapping during the process.
-3. &#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 01.11.58.png" alt=""><figcaption></figcaption></figure>
 
+
+
+#### Bearing Plate
+
+The printer setting may affect the dowel hole size. If you find it is extremely difficult to insert the dowel, please try re-printing the plate with a larger layer height, or use a 2.5mm drill to enlarge the hole.&#x20;
+
+<figure><img src="../.gitbook/assets/7B8C6E87-BC91-46EE-A5E5-320FA5DCD4B7_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/YHv7OPIKRvE" %}
+
+| Ring Finger Plate                                                               | Thumb + Middle + Index                                                                                                     | Pinky                                                                                                                      |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../.gitbook/assets/151A4A15-2B52-45D9-B8B3-14B13A85DD86_1_105_c (1).jpeg>) | <p><img src="../.gitbook/assets/8C3C864C-D76F-4D1B-A166-53389E9B303A_1_105_c.jpeg" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/AB6C4F3F-D8A5-42CD-962A-B9747D47DD46_1_105_c.jpeg" alt="" data-size="original"></p><p></p> |
+
