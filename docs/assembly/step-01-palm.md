@@ -61,10 +61,10 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 3 x 3.5 Heat Set Inserts</td><td>3</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>4</td></tr></tbody></table>
 
-| Index                                                                              | Ring & Pinky                                                                      | Middle                              |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- |
-| <p>[1] M2 x 3 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                      | <p>[1] M2 x 3 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                     | \[1] M2 x 4 x 3.5                   |
-| <p><img src="../.gitbook/assets/index.gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/ring.gif" alt="" data-size="original"></p><p></p> | ![](../.gitbook/assets/knuckle.gif) |
+| Index                                                                                  | Ring & Pinky                                                                          | Middle                              |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------- |
+| <p>[1] M2 x 3 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                          | <p>[1] M2 x 3 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                         | \[1] M2 x 4 x 3.5                   |
+| <p><img src="../.gitbook/assets/index (1).gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/ring (1).gif" alt="" data-size="original"></p><p></p> | ![](../.gitbook/assets/knuckle.gif) |
 
 #### 5. Palm & Backhand
 
@@ -86,10 +86,10 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 Wrist Connector
 
-| Top & Bottom                                                                               | Middle                             |
-| ------------------------------------------------------------------------------------------ | ---------------------------------- |
-| \[2] M2 x 4 x 3.5                                                                          | \[1] M5 x 6 x 7                    |
-| <p><img src="../.gitbook/assets/connector (1).gif" alt="" data-size="original"></p><p></p> | ![](../.gitbook/assets/middle.gif) |
+| Top & Bottom                                                                               | Middle                                   |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| \[2] M2 x 4 x 3.5                                                                          | \[1] M5 x 6 x 7                          |
+| <p><img src="../.gitbook/assets/connector (1).gif" alt="" data-size="original"></p><p></p> | ![](<../.gitbook/assets/middle (1).gif>) |
 
 Wrist Base
 
