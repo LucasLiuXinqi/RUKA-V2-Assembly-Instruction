@@ -13,6 +13,8 @@ Things to check:
 
 ### 2. Assembly Instruction
 
+{% embed url="https://youtu.be/AmN6a0sr5ds" %}
+
 #### Middle Finger Assembly
 
 | Required Parts                              | Number |

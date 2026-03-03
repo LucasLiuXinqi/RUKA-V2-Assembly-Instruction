@@ -8,6 +8,8 @@ Double-check that the knuckle part and the thumb are fully functional.
 
 ### 2. Assembly
 
+{% embed url="https://youtu.be/I0EBmP7fP7s" %}
+
 #### Backhand Assembly
 
 | Required Parts | Number |
