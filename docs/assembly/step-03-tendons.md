@@ -5,7 +5,7 @@
 Things to check:
 
 * The abduction / Adduction surface should be smooth enough
-  * Surfaces that needs to be grind
+  * Surfaces that need to be polished
   *
 * Finger tendons are coming out from the correct place
 
@@ -29,7 +29,7 @@ Things to check:
 
 #### Attach Middle Finger
 
-Before inserting the dowels, route the two strings into the two corresponding holes on the kunckle.
+Before inserting the dowels, route the two strings into the two corresponding holes on the knuckle.
 
 <figure><img src="../.gitbook/assets/middle.gif" alt=""><figcaption></figcaption></figure>
 
@@ -50,9 +50,9 @@ Before inserting the dowels, route the two strings into the two corresponding ho
 
 #### Attach Index Finger
 
-1. Use M2 \* 3 screw to fix the spring on the abduction joint <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, it may extrude from the heat insert and obscuring the dowel pin insertion.</mark>
-2. Insert the index finger into the knuckle, check if it moves freely.
-3. Insert two dowel pins, and put the cap on, check movement again.&#x20;
+1. Use M2 \* 3 screw to fix the spring on the abduction joint. <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, as it may extrude from the heat insert and obscure the dowel pin insertion.</mark>
+2. Insert the index finger into the knuckle, and check if it moves freely.
+3. Insert two dowel pins, and put the cap on, check the movement again.&#x20;
 
 <figure><img src="../.gitbook/assets/index.gif" alt=""><figcaption></figcaption></figure>
 
@@ -73,9 +73,9 @@ Before inserting the dowels, route the two strings into the two corresponding ho
 
 #### Attach Ring Finger
 
-1. Use M2 \* 3 screw to fix the spring on the abduction joint <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, it may extrude from the heat insert and obscuring the dowel pin insertion.</mark>
-2. Insert the ring finger into the knuckle, check if it moves freely.
-3. Insert two dowel pins, and put the cap on, check movement again.&#x20;
+1. Use M2 \* 3 screw to fix the spring on the abduction joint. <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, as it may extrude from the heat insert and obscure the dowel pin insertion.</mark>
+2. Insert the ring finger into the knuckle, and check if it moves freely.
+3. Insert two dowel pins, and put the cap on, check the movement again.&#x20;
 
 <figure><img src="../.gitbook/assets/ring.gif" alt=""><figcaption></figcaption></figure>
 
@@ -94,17 +94,54 @@ Before inserting the dowels, route the two strings into the two corresponding ho
 | M2 \* 3 Screw                              | 1      |
 | Knuckle Cap                                | 2      |
 
-1. Use M2 \* 3 screw to fix the spring on the abduction joint <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, it may extrude from the heat insert and obscuring the dowel pin insertion.</mark>
-2. Insert the pinky finger into the knuckle, check if it moves freely.
-3. Insert two dowel pins, and put the cap on, check movement again.&#x20;
+1. Use M2 \* 3 screw to fix the spring on the abduction joint. <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, as it may extrude from the heat insert and obscure the dowel pin insertion.</mark>
+2. Insert the pinky finger into the knuckle, and check if it moves freely.
+3. Insert two dowel pins, and put the cap on, check the movement again.&#x20;
 
 <figure><img src="../.gitbook/assets/pinky.gif" alt=""><figcaption></figcaption></figure>
 
 
 
+
+
+#### Backhand Assembly
+
+| Required Parts | Number |
+| -------------- | ------ |
+| Backhand       | 1      |
+| Knuckle        | 1      |
+| M2 \* 6 Screw  | 5      |
+| M2 Washer      | 3      |
+
+1. Use two M2 \* 6 screws to fix the knuckle on the backhand.
+2. Put the washer on the screw, then fix the springs on the backhand.&#x20;
+
 <figure><img src="../.gitbook/assets/backhand.gif" alt=""><figcaption></figcaption></figure>
 
 
+
+
+
+#### Palm Assembly
+
+| Required Parts   | Number |
+| ---------------- | ------ |
+| Knuckle+Backhand | 1      |
+| Palm             | 1      |
+| Thumb            | 1      |
+| Wrist Connector  | 1      |
+| M2 \* 4 Screw    | 4      |
+| M2 \* 6 Screw    | 13     |
+| PTFE Tube        |        |
+
+1. Route PTFE tubes following the schema below.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+2. Attach the wrist connector to the palm, carefully adjust the PTFE tube positions, and ensure that they are not extruding.
+3. Route all finger tendons through PTFE tubes.
+4. Slide in the thumb, use four M2 \* 4 screws to fix it.
+5. Slide in the knuckle + backhand, use M2 \* 6 screws to fix it on the palm. <mark style="color:$danger;">CAUTION: Check the abduction joint again; if they can not move freely, try to loosen the screws attaching the knuckle and palm.</mark>
 
 <figure><img src="../.gitbook/assets/palm.gif" alt=""><figcaption></figcaption></figure>
 
@@ -120,6 +157,6 @@ Things to check:
 
 ### 4. Troubleshooting
 
-* Why my abduction/adduction joint stuck at one position?
-  * Have you grind the joint contact surfaces?
+* Why is my abduction/adduction joint stuck at one position?
+  * Have you polished the joint contact surfaces?
   * Is the PTFE tube extruding out from the knuckle?
