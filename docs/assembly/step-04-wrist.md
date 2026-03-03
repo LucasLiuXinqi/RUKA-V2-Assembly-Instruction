@@ -40,6 +40,8 @@ Double-check that the knuckle part and the thumb are fully functional.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://youtu.be/ixJMM8328Fc" %}
+
 2. Attach the wrist connector to the palm, carefully adjust the PTFE tube positions, and ensure that they are not extruding.
 3. Route all finger tendons through PTFE tubes.
 4. Slide in the thumb, use four M2 \* 4 screws to fix it.
