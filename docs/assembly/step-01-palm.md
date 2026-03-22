@@ -32,7 +32,7 @@ Please prepare all the 3D printed parts, almost all of them will be used in this
 
 #### 1. Fingers (Index, Middle, Ring)
 
-<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 Heat Set Inserts</td><td>2</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>3</td></tr></tbody></table>
+<table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 Heat Set Inserts</td><td>2 * 3</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>3 * 3</td></tr></tbody></table>
 
 | Joint 1                                                                             | Joint 2                                                               | Joint 3                                                                             |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
