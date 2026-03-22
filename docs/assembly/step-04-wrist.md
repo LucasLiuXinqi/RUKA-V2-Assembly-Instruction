@@ -38,7 +38,7 @@ Double-check that the knuckle part and the thumb are fully functional.
 
 1. Route PTFE tubes following the schema below.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/ixJMM8328Fc" %}
 
