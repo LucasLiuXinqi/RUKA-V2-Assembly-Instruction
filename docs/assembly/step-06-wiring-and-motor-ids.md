@@ -19,3 +19,7 @@ Using the following schema, solder the ground cables two 3-pin connectors to the
 
 
 ### Motor IDs
+
+Right-hand motor IDs
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-24 at 18.44.34.png" alt=""><figcaption></figcaption></figure>
