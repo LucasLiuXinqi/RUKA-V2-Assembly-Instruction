@@ -22,4 +22,3 @@
 ## Software
 
 * [Calibration](software/motion-check.md)
-* [Demo](software/troubleshooting.md)
