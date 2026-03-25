@@ -1,6 +1,6 @@
 # Step 09 — Mount Pulleys
 
-<table><thead><tr><th width="212.91796875">Part Name</th><th>Quantity</th></tr></thead><tbody><tr><td>Small Pulleys</td><td>11</td></tr><tr><td>Large Pulleys</td><td>3</td></tr><tr><td>6mm Dynamixel screws*</td><td>22</td></tr><tr><td>M2 x 4 mm Screws</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="212.91796875">Part Name</th><th width="120.76171875">Quantity</th></tr></thead><tbody><tr><td>Small Pulleys</td><td>11</td></tr><tr><td>Large Pulleys</td><td>3</td></tr><tr><td>6mm Dynamixel screws*</td><td>22</td></tr><tr><td>M2 x 4 mm Screws</td><td>6</td></tr></tbody></table>
 
 \*Screws come with the Dynamixel motors
 
