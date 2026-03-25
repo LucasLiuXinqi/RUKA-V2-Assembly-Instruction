@@ -17,13 +17,13 @@ Things to check:
 
 #### Middle Finger Assembly
 
-| Required Parts                              | Number |
-| ------------------------------------------- | ------ |
-| Middle Finger                               | 1      |
-| Knuckle                                     | 1      |
-| Dowel                                       | 1      |
-| Extension Spring 0.016"x0.16"x0.59" (Short) | 1      |
-| M2 \* 4 Screw                               | 1      |
+| Required Parts                              | Quantity |
+| ------------------------------------------- | -------- |
+| Middle Finger                               | 1        |
+| Knuckle                                     | 1        |
+| Dowel                                       | 1        |
+| Extension Spring 0.016"x0.16"x0.59" (Short) | 1        |
+| M2 \* 4 Screw                               | 1        |
 
 #### Attach Spring
 
@@ -41,14 +41,14 @@ Before inserting the dowels, route the two strings into the two corresponding ho
 
 #### Index Finger Assembly
 
-| Required Parts                             | Number |
-| ------------------------------------------ | ------ |
-| Index Finger                               | 1      |
-| Knuckle                                    | 1      |
-| Dowel                                      | 2      |
-| Extension Spring 0.016"x0.16"x0.79" (long) | 1      |
-| M2 \* 3 Screw                              | 1      |
-| Knuckle Cap                                | 2      |
+| Required Parts                             | Quantity |
+| ------------------------------------------ | -------- |
+| Index Finger                               | 1        |
+| Knuckle                                    | 1        |
+| Dowel                                      | 2        |
+| Extension Spring 0.016"x0.16"x0.79" (long) | 1        |
+| M2 \* 3 Screw                              | 1        |
+| Knuckle Cap                                | 2        |
 
 #### Attach Index Finger
 
@@ -64,14 +64,14 @@ Before inserting the dowels, route the two strings into the two corresponding ho
 
 #### Ring Finger Assembly
 
-| Required Parts                             | Number |
-| ------------------------------------------ | ------ |
-| Ring Finger                                | 1      |
-| Knuckle                                    | 1      |
-| Dowel                                      | 2      |
-| Extension Spring 0.016"x0.16"x0.79" (long) | 1      |
-| M2 \* 3 Screw                              | 1      |
-| Knuckle Cap                                | 2      |
+| Required Parts                             | Quantity |
+| ------------------------------------------ | -------- |
+| Ring Finger                                | 1        |
+| Knuckle                                    | 1        |
+| Dowel                                      | 2        |
+| Extension Spring 0.016"x0.16"x0.79" (long) | 1        |
+| M2 \* 3 Screw                              | 1        |
+| Knuckle Cap                                | 2        |
 
 #### Attach Ring Finger
 
@@ -87,14 +87,14 @@ Before inserting the dowels, route the two strings into the two corresponding ho
 
 #### Pinky Finger Assembly
 
-| Required Parts                             | Number |
-| ------------------------------------------ | ------ |
-| Pinky Finger                               | 1      |
-| Knuckle                                    | 1      |
-| Dowel                                      | 2      |
-| Extension Spring 0.016"x0.16"x0.79" (long) | 1      |
-| M2 \* 3 Screw                              | 1      |
-| Knuckle Cap                                | 2      |
+| Required Parts                             | Quantity |
+| ------------------------------------------ | -------- |
+| Pinky Finger                               | 1        |
+| Knuckle                                    | 1        |
+| Dowel                                      | 2        |
+| Extension Spring 0.016"x0.16"x0.79" (long) | 1        |
+| M2 \* 3 Screw                              | 1        |
+| Knuckle Cap                                | 2        |
 
 1. Use M2 \* 3 screw to fix the spring on the abduction joint. <mark style="color:$danger;">CAUTION: Do not tighten the screw too much, as it may extrude from the heat insert and obscure the dowel pin insertion.</mark>
 2. Insert the pinky finger into the knuckle, and check if it moves freely.

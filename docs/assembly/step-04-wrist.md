@@ -12,12 +12,12 @@ Double-check that the knuckle part and the thumb are fully functional.
 
 #### Backhand Assembly
 
-| Required Parts | Number |
-| -------------- | ------ |
-| Backhand       | 1      |
-| Knuckle        | 1      |
-| M2 \* 6 Screw  | 5      |
-| M2 Washer      | 3      |
+| Required Parts | Quantity |
+| -------------- | -------- |
+| Backhand       | 1        |
+| Knuckle        | 1        |
+| M2 \* 6 Screw  | 5        |
+| M2 Washer      | 3        |
 
 1. Use two M2 \* 6 screws to fix the knuckle on the backhand.
 2. Put the washer on the screw, then fix the springs on the backhand.&#x20;
@@ -26,15 +26,15 @@ Double-check that the knuckle part and the thumb are fully functional.
 
 #### Palm Assembly
 
-| Required Parts   | Number |
-| ---------------- | ------ |
-| Knuckle+Backhand | 1      |
-| Palm             | 1      |
-| Thumb            | 1      |
-| Wrist Connector  | 1      |
-| M2 \* 4 Screw    | 4      |
-| M2 \* 6 Screw    | 13     |
-| PTFE Tube        |        |
+| Required Parts   | Quantity |
+| ---------------- | -------- |
+| Knuckle+Backhand | 1        |
+| Palm             | 1        |
+| Thumb            | 1        |
+| Wrist Connector  | 1        |
+| M2 \* 4 Screw    | 4        |
+| M2 \* 6 Screw    | 13       |
+| PTFE Tube        |          |
 
 1. Route PTFE tubes following the schema below.
 

@@ -12,12 +12,12 @@
 
 #### Bearings Insertion
 
-| Required Parts                | Number |
-| ----------------------------- | ------ |
-| Base                          | 1      |
-| Inner Linkage                 | 1      |
-| Outer Linkage                 | 1      |
-| Bearings (10mm OD, 5mm Inner) | 8      |
+| Required Parts                | Quantity |
+| ----------------------------- | -------- |
+| Base                          | 1        |
+| Inner Linkage                 | 1        |
+| Outer Linkage                 | 1        |
+| Bearings (10mm OD, 5mm Inner) | 8        |
 
 <mark style="color:$danger;">Suggestion: Use a bench clamp if it is difficult to press in.</mark>
 
@@ -33,13 +33,13 @@
 
 #### Wrist Assembly
 
-| Required Parts   | Number |
-| ---------------- | ------ |
-| Wrist Components |        |
-| M2 \* 12 Screw   | 4      |
-| M5 \* 20 Screw   | 6      |
-| M5 Washer        | >8     |
-| M5 Lock Nuts     | 5      |
+| Required Parts   | Quantity |
+| ---------------- | -------- |
+| Wrist Components |          |
+| M2 \* 12 Screw   | 4        |
+| M5 \* 20 Screw   | 6        |
+| M5 Washer        | >8       |
+| M5 Lock Nuts     | 5        |
 
 1. Press the wrist connector into the inner linkage.&#x20;
 
